@@ -9,7 +9,7 @@ export const DEFAULT_FLAGS = [
   // Disable built-in Google Translate service
   '--disable-translate',
   // Disable all chrome extensions entirely
-  '--disable-extensions',
+  // '--disable-extensions',
   // Disable various background network services, including extension updating,
   //   safe browsing service, upgrade detector, translate, UMA
   '--disable-background-networking',
